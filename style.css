@@ -65,9 +65,6 @@
         font-size: 13px;
     }
 
-    .linkedin_button:hover .linkedin_button{
-         padding: 15px 40px;
-    }
     
     .main-top {
         background-image: url(images/header-bg.png);

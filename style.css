@@ -1,0 +1,199 @@
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: arial;
+    }
+    
+    h1 {
+        color: #EC4C7A;
+        font-weight: 900;
+        font-size: 45px;
+    }
+    
+    strong {}
+    
+    .left h2 {
+        font-size: 2.5em;
+        color: #202428;
+        font-weight: 400;
+        margin-bottom: -35px;
+    }
+    
+    h3 {
+        font-size: 2.5em;
+        color: #202428;
+        font-weight: 400;
+    }
+    
+    p {
+        font-weight: 600;
+        color: #757575;
+        font-size: 15px;
+        line-height: 1.8em;
+        margin-bottom: 40px;
+    }
+    
+    .main-wrap {
+        width: 80%;
+        margin: 0px auto;
+    }
+    
+    .left {
+        width: 45%;
+        float: left;
+        margin-left: 100px;
+        margin-top: 200px;
+    }
+    
+    .right {
+        width: 45%;
+        float: left;
+        margin-top: 100px;
+    }
+    
+    img {
+        width: 100%;
+    }
+    
+    .linkedin_button {
+        text-decoration: none;
+        background-image: linear-gradient(45deg, #EC4F8F, #EC4C7A);
+        padding: 15px 35px;
+        border-radius: 5px;
+        font-weight: 700;
+        color: white;
+        font-size: 13px;
+    }
+    
+    .main-top {
+        background-image: url(images/header-bg.png);
+        background-repeat: no-repeat;
+        height: 500px;
+        width: 100%;
+        padding-bottom: 250px;
+        background-size: cover;
+    }
+    
+    #right {
+        width: 45%;
+        float: left;
+        margin-left: 100px;
+        margin-top: 200px;
+    }
+    
+    #left {
+        width: 45%;
+        float: left;
+        margin-top: 100px;
+        margin-left: 0px;
+    }
+    
+    .biography {
+        background-image: url(images/biography-bg.png);
+        background-repeat: no-repeat;
+        height: 500px;
+        width: 100%;
+        padding-bottom: 250px;
+        background-size: cover;
+    }
+    
+    .work {
+        width: 32%;
+        float: left;
+        padding: 5px;
+    }
+    
+    .work img {
+        width: 100%;
+    }
+    
+    .work-area {
+        background-image: url(images/latest-work-bg.png);
+        background-repeat: no-repeat;
+        height: 500px;
+        width: 100%;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        background-size: cover;
+    }
+    
+    #work {
+        text-align: center;
+        font-weight: 600;
+        margin-bottom: 70px;
+        padding: 8px;
+    }
+    
+    #latest-work-word {
+        text-align: center;
+        font-size: 40px;
+    }
+    
+    #client-say {
+        text-align: center;
+    }
+    
+    #bruce-moccy {
+        text-align: center;
+        font-size: large;
+    }
+    
+    h4 {
+        color: #202428;
+    }
+    
+    #ass-color {
+        text-align: center;
+        font-weight: 600;
+        margin-bottom: 70px;
+        padding: 8px;
+    }
+    
+    h5 {
+        color: #A0A0A0;
+        margin-top: -10px;
+    }
+    
+    #lorem-ipsum {
+        text-align: center;
+        color: dimgray;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        font-size: 16px;
+    }
+    
+    .gmail-area {
+        text-align: center;
+        background-image: linear-gradient(45deg, #EC4F8E, #EC4C7C);
+        padding: 35px 20px;
+        margin-left: 350px;
+        margin-right: 350px;
+        border-radius: 10px;
+    }
+    
+    .gmail-area h4 {
+        color: white;
+    }
+    
+    .gmail-area h2 {
+        color: white;
+    }
+    
+    #gmail-text h2 {
+        font-size: 25px;
+    }
+    
+    .client-area-section {
+        background-image: url("images/footer-bg.png");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        padding-top: 50px;
+        padding-bottom: 150px;
+        ;
+    }
+    
+    footer h5 {
+        text-align: center;
+        margin-bottom: 40px;
+        font-size: 15px;
+    }
